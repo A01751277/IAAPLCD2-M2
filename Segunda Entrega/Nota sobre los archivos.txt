@@ -1,0 +1,3 @@
+Para la parte de predicción de cartas nuevas se incluyen todos los modelos entrenados.
+Simplemente es cuestión de añadirlos al directorio.
+También se incluye una llave de Kaggle para acceder a los datos.
